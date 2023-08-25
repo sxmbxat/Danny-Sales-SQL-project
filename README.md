@@ -11,37 +11,38 @@ Problem Statement: Danny wants to use the data to answer a few simple questions 
 
 
 
-3. How many days has each customer visited the restaurant?
+2. How many days has each customer visited the restaurant?
 
 ![Screenshot 2023-08-23 at 9 54 34 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/c81bb634-65a6-46f9-bb01-3fd5cc2a4f3c)
 
 
 
-5. What was the first item from the menu purchased by each customer?
+3. What was the first item from the menu purchased by each customer?
 
 ![Screenshot 2023-08-23 at 9 54 42 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/fd649cf3-e759-4309-99fe-d12baadacea7)
 
   
   
-7. What is the most purchased item on the menu and how many times was it purchased by all customers?
+4. What is the most purchased item on the menu and how many times was it purchased by all customers?
 
 ![Screenshot 2023-08-23 at 9 55 13 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/9b805dba-7273-466b-b707-adff4514cacc)
 
 
 
-9. Which item was the most popular for each customer?
+5. Which item was the most popular for each customer?
 
-![Screenshot 2023-08-23 at 9 55 21 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/8bcb6948-9abf-4944-8ec5-769db2a9ec1f)
+![Screenshot 2023-08-25 at 9 45 29 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/25efdbe1-3d12-446c-9e92-44e4bf170259)
 
 
 
-11. What is the total items and amount spent for each member?
+
+6. What are the total items and amount spent for each member?
 
 ![Screenshot 2023-08-23 at 9 55 30 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/8656de9d-6aea-486e-9448-f02fb3b21d76)
 
 
 
-13. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
+7. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 
 ![Screenshot 2023-08-23 at 9 55 36 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/84e93198-0391-4631-b935-6fc16c339640)
 
