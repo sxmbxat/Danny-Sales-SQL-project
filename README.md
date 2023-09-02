@@ -9,6 +9,11 @@ Problem Statement: Danny wants to use the data to answer a few simple questions 
 
 ![Screenshot 2023-08-23 at 9 54 24 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/1c96906e-e2e9-498e-b0eb-ac867d27c9d7)
 
+Result:
+
+
+![Screenshot 2023-09-02 at 1 20 09 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/5dddfb27-6752-408b-87de-afe511abfba5)
+
 
 
 2. How many days has each customer visited the restaurant?
@@ -16,22 +21,44 @@ Problem Statement: Danny wants to use the data to answer a few simple questions 
 ![Screenshot 2023-08-23 at 9 54 34 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/c81bb634-65a6-46f9-bb01-3fd5cc2a4f3c)
 
 
+Result:
+
+![Screenshot 2023-09-02 at 1 20 53 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/47fe432c-9d9a-4724-97cd-83d0663c4e71)
+
+
 
 3. What was the first item from the menu purchased by each customer?
 
 ![Screenshot 2023-08-23 at 9 54 42 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/fd649cf3-e759-4309-99fe-d12baadacea7)
 
-  
+
+Result:
+
+![Screenshot 2023-09-02 at 1 21 38 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/3d84dddd-234f-4e45-b180-33f5c9cb1b90)
+
+
+
   
 4. What is the most purchased item on the menu and how many times was it purchased by all customers?
 
 ![Screenshot 2023-08-23 at 9 55 13 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/9b805dba-7273-466b-b707-adff4514cacc)
 
 
+Result:
+
+![Screenshot 2023-09-02 at 1 22 38 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/98f7b5d7-e552-4f8b-be5d-c1f9c38ee42b)
+
+
+
 
 5. Which item was the most popular for each customer?
 
 ![Screenshot 2023-08-25 at 9 45 29 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/25efdbe1-3d12-446c-9e92-44e4bf170259)
+
+
+Result:
+
+![Screenshot 2023-09-02 at 1 23 17 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/0b6c89fe-c554-4c5a-9d13-575c5ce7a67f)
 
 
 
@@ -41,9 +68,22 @@ Problem Statement: Danny wants to use the data to answer a few simple questions 
 ![Screenshot 2023-08-23 at 9 55 30 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/8656de9d-6aea-486e-9448-f02fb3b21d76)
 
 
+Result:
+
+
+![Screenshot 2023-09-02 at 1 23 58 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/9d7c34cc-3f6e-4ad7-9f40-937d43367138)
+
+
+
 
 7. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 
 ![Screenshot 2023-08-23 at 9 55 36 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/84e93198-0391-4631-b935-6fc16c339640)
+
+
+Result:
+
+![Screenshot 2023-09-02 at 1 24 35 PM](https://github.com/sxmbxat/Danny-Sales-SQL-project/assets/76230224/79cf8266-c9db-4589-ad8b-fc28903037fb)
+
 
 
